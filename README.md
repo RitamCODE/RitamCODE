@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritamcode" alt="ritamcode" /></a> </p>
 
-- 🔭 I’m currently working on [JSPIE](https://github.com/RitamCODE/Jaspy)
+- 🔭 I’m currently working on [JesPie](https://github.com/RitamCODE/JesPie)
 
-- 🌱 I’m currently learning **LLM**
+- 🌱 I’m currently exploring **Generative AI, Deep Learning and Large Language Modela**
 
-- 👯 I’m looking to collaborate on [JSPIE](https://github.com/RitamCODE/Jaspy)
+- 👯 I’m looking to collaborate on [JesPie](https://github.com/RitamCODE/JesPie)
 
-- 👨‍💻 All of my projects are available at [Ritam.stallion27@gmail.com](Ritam.stallion27@gmail.com)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/RitamCODE)
 
-- 💬 Ask me about **Python, ML, Generative AI**
+- 💬 Ask me about **Python, ML, Generative AI, LangChain, Vector Databases**
 
-- ⚡ Fun fact **My Profile is of Data Scientist But I am an Software developer**
+- ⚡ Fun fact **My current job Profile is of Data Scientist But I am a Software developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
