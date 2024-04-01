@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritam Mukherjee</h1>
-<h3 align="center">A passionate Py developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritamcode&label=Profile%20views&color=0e75b6&style=flat" alt="ritamcode" /> </p>
 
@@ -19,7 +19,7 @@
 
 ⚡ Fun fact **Besides being a developer I am also a Indian Classical Flaustist and Painter**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
   
 <a href="https://twitter.com/ritamm27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"             alt="ritamm27" height="30" width="40" /></a>
