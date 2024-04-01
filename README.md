@@ -69,13 +69,15 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
+<!-- added hacktoberfest badges login to holopin account to see those https://www.holopin.io/@ritamcode# -->
+
+[![An image of @ritamcode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritamcode)](https://holopin.io/@ritamcode)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritamcode&show_icons=true&locale=en&layout=compact" alt="ritamcode" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritamcode" alt="ritamcode" /></a> </p>
 
-<!-- added hacktoberfest badges login to holopin account to see those https://www.holopin.io/@ritamcode# -->
 
-[![An image of @ritamcode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritamcode)](https://holopin.io/@ritamcode)
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritamcode&show_icons=true&locale=en" alt="ritamcode" /></p>
 
