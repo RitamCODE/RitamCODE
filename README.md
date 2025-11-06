@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ritam Mukherjee</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritamcode&label=Profile%20views&color=0e75b6&style=flat" alt="ritamcode" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritamcode&label=Profile%20views&color=0e75b6&style=flat" alt="ritamcode" /> </p> -->
 
 
 
-- 🔭 I’m currently working on [JesPie](https://github.com/RitamCODE/JesPie)
+<!-- - 🔭 I’m currently working on [JesPie](https://github.com/RitamCODE/JesPie)-->
 
-- 🌱 I’m currently exploring **Generative AI, Deep Learning and Large Language Modela**
+<!-- - 🌱 I’m currently exploring **Generative AI, Deep Learning and Large Language Modela**-->
 
-- 👯 I’m looking to collaborate on [JesPie](https://github.com/RitamCODE/JesPie)
+<!-- - 👯 I’m looking to collaborate on [JesPie](https://github.com/RitamCODE/JesPie)-->
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/RitamCODE)
+<!-- - 👨‍💻 All of my projects are available at [GitHub](https://github.com/RitamCODE)-->
 
-- 💬 Ask me about **Python, ML, Generative AI, LangChain, Vector Databases**
+<!-- - 💬 Ask me about **Python, ML, Generative AI, LangChain, Vector Databases**-->
   
-- 📫 Reach me at **ritam.stallion27@gmail.com**
+<!-- - 📫 Reach me at **ritam.stallion27@gmail.com**-->
 
 ⚡ Fun fact **Besides being a developer I am also a Indian Classical Flaustist and Painter**
 
