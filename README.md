@@ -17,7 +17,7 @@
   
 <!-- - 📫 Reach me at **ritam.stallion27@gmail.com**-->
 
-⚡ Fun fact **Besides being a developer I am also a Indian Classical Flaustist and Painter**
+<!--⚡ Fun fact **Besides being a developer I am also a Indian Classical Flaustist and Painter**-->
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
