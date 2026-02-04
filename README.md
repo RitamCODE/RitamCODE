@@ -73,9 +73,11 @@
 
 [![An image of @ritamcode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritamcode)](https://holopin.io/@ritamcode)
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritamcode&show_icons=true&locale=en&layout=compact" alt="ritamcode" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritamcode" alt="ritamcode" /></a> </p>
+
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritamcode&show_icons=true&locale=en&layout=compact" alt="ritamcode" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritamcode" alt="ritamcode" /></a> </p> -->
 
 
 
