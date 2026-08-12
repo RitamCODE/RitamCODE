@@ -37,11 +37,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritamcode" alt="ritamcode" /></a> </p> -->
 
-<p align="left">
+<!-- <p align="left">
   Prized possesion 😅 - Photo with <a href="https://github.com/kdaigle">@kdaigle</a> (COO, GitHub) and dearest Abhiram <a href="https://github.com/abhiram2504">@abhiram2504 </a> 
 </p>
 
-![App Screenshot](kdaigle.jpg)
+![App Screenshot](kdaigle.jpg) -->
 
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritamcode&show_icons=true&locale=en" alt="ritamcode" /></p>
